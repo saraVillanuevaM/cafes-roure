@@ -1,0 +1,36 @@
+* {
+  background-color: #fff7e2;
+}
+.green {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a8b86f;
+}
+.brown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3f2818;
+}
+.red {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cb2600;
+}
+
+li {
+  font-size: medium;
+  list-style: none !important;
+}
+
+a {
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+}
+a:hover {
+  text-decoration: underline !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: black;
+}
