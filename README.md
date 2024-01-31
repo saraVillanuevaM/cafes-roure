@@ -1,4 +1,4 @@
-# Enhancing Digital Experience for Cafès Roure
+# Digital Experience for Cafès Roure
 
 **Team Members:**
 - Sara Moreno
